@@ -95,6 +95,18 @@ Kaavach AI uses a **multi-factor risk scoring model** based on:
   - strike  
   - zone closure  
 
+
+### Why Parametric Insurance?
+
+Traditional insurance requires claim verification, which is slow and costly.
+
+Kaavach AI uses a parametric model where payouts are triggered automatically based on measurable conditions such as rainfall, AQI, and disruptions.
+
+This makes the system:
+- faster (no claim processing delay)
+- scalable (handles thousands of workers)
+- transparent (rule-based decisions)
+- cost-efficient for insurers
 ### Risk Score Logic
 
 The system computes a weighted score:
