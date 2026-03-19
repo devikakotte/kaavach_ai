@@ -10,7 +10,7 @@
 
 
 
-\## 🚀 Problem
+\##  Problem
 
 
 
@@ -18,13 +18,13 @@ Delivery workers (Zepto, Blinkit, Instamart) lose income due to:
 
 
 
-\- Heavy rain 🌧️  
+\- Heavy rain   
 
-\- High pollution (AQI spikes) 😷  
+\- High pollution (AQI spikes)  
 
-\- Extreme heat 🌡️  
+\- Extreme heat   
 
-\- Local disruptions (curfews, strikes) 🚧  
+\- Local disruptions (curfews, strikes)   
 
 
 
@@ -36,7 +36,7 @@ There is \*\*no instant protection system\*\* for their income loss.
 
 
 
-\## 💡 Solution
+\##  Solution
 
 
 
@@ -62,7 +62,7 @@ No paperwork. No delays.
 
 
 
-\## ⚙️ How It Works
+\##  How It Works
 
 
 
@@ -98,21 +98,21 @@ No paperwork. No delays.
 
 
 
-\## 🧠 Key Features
+\##  Key Features
 
 
 
-\- ✅ AI Risk Scoring  
+\-  AI Risk Scoring  
 
-\- ✅ Weekly Premium Model  
+\-  Weekly Premium Model  
 
-\- ✅ Parametric Claim Trigger  
+\-  Parametric Claim Trigger  
 
-\- ✅ Fraud Detection  
+\-  Fraud Detection  
 
-\- ✅ Insurer Decision Snapshot  
+\-  Insurer Decision Snapshot  
 
-\- ✅ Real-time simulation  
+\-  Real-time simulation  
 
 
 
@@ -120,7 +120,7 @@ No paperwork. No delays.
 
 
 
-\## 🏗️ Tech Stack
+\##  Tech Stack
 
 
 
@@ -138,7 +138,7 @@ No paperwork. No delays.
 
 
 
-\## ▶️ Run Locally
+\## ▶ Run Locally
 
 
 
