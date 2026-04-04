@@ -550,3 +550,7 @@ def get_policies():
 @app.get("/claims")
 def get_claims():
     return {"claims": list(claims_db.values())}
+
+@app.get("/health")
+def health_check():
+    return {"status": "ok"}
